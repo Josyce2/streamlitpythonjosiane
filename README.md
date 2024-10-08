@@ -1,1 +1,1 @@
-# streamlitpythonjosiane
+# streamlitpythonjosiane consiste na criação de um aplicativo para dashboard com série temporal do número de reclamações, frequência de reclamações por estado, de cada tipo de STATUS e distribuição do tamanho do texto (coluna DESCRIÇÃO).
